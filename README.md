@@ -35,7 +35,7 @@ Provided dataset of online product reviews, each labeled with one or more produc
 - Price
 - Build Quality
 
-The dataset should include raw text reviews, some of which might be poorly written, contain irrelevant information (e.g., shipping complaints), or be misclassified. Some reviews might belong to multiple categories.
+The dataset includes raw text reviews, some of which might be poorly written, contain irrelevant information (e.g., shipping complaints), or be misclassified. Some reviews might belong to multiple categories.
 
 ---
 
